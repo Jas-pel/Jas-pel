@@ -1,30 +1,34 @@
-# 👋 Salut, moi c'est Jasmin !
+# Jasmin Pelletier
 
-**Étudiant en Sciences de l'Information Quantique | Université de Sherbrooke**
+Étudiant au baccalauréat en sciences de l'information quantique à l'Université de Sherbrooke,
+et assistant technique dans l'équipe Software de Nord Quantique.
 
-Je suis un passionné des STIM, cherchant toujours à en apprendre plus et à me lancer de nouveaux défis. Je m'intéresse particulièrement au domaine de l'intelligence artificielle ainsi qu'aux algorithmes quantiques.
+Je m'intéresse aux algorithmes quantiques, à la compilation et à l'architecture logicielle.
+J'aime comprendre un concept en profondeur, puis le rendre simple à utiliser et à expliquer.
 
----
+## En ce moment
 
-### Projets du moment
-* **Estimation de paramètres quantiques** : Développement d'algorithmes d'estimation de valeur moyenne d'observable en python.
-* **Calcul Quantique** : Optimisation de circuits vers des portes Clifford+T et résolution de problèmes SAT via l'algorithme de Grover.
-* **Systèmes & Réseaux** : Implémentation de protocoles CRC et de fenêtres glissantes en C++.
-* **IA & Vision** : Développement d'un système de reconnaissance faciale avec Python, Streamlit et InsightFace.
+- **Nord Quantique** : développement de la plateforme logicielle de contrôle des processeurs
+  quantiques, de la compilation des programmes à leur exécution sur le matériel.
+- **Université de Sherbrooke** : 2e année du baccalauréat, président de cohorte et
+  responsable des événements externes du club QuantUS.
 
-### Bagage Technique
-* **Programmation** : Python (Qiskit, NumPy, Streamlit), C++, Bash.
-* **Recherche & Data** : Calcul de haute performance (HPC), modèles de langage (LLM), NLP et Bio-informatique.
-* **Outils** : Git / GitHub, Linux, infrastructure de recherche.
-* **Soft Skills** : Vulgarisation scientifique et gestion de projets.
 
-### Parcours & Engagements
-* **Médaille d'or** à l'Expo-sciences pancanadienne (2023).
-* **Représentant du Canada** à l'Expo-sciences internationale au Mexique.
-* **Ambassadeur National** des Expo-sciences Hydro-Québec (2024-2026).
+## Compétences
 
----
+- **Langages** : Python, C++, Bash
+- **Quantique** : Qiskit, VQE, QAOA, circuits de Clifford et Clifford+T, algorithme de Grover
+- **Outillage Python** : pytest, mypy, Pydantic, pixi, PyPI, Flask
+- **Ingénierie** : Git, GitHub Actions (CI/CD), architecture de monorepos, Linux
+- **Recherche** : calcul haute performance (Calcul Québec, GPU H100), modèles de langage, bio-informatique
 
-### Me joindre
-* Basé à **Sherbrooke, QC**
-* **Email** : Pelletierjasmin7@gmail.com
+## Distinctions
+
+- 1re place, YQuantum 2026, Yale University
+- Médaille d'or, Expo-sciences pancanadienne 2023
+- Représentant du Canada, Expo-sciences internationale MILSET 2023, Mexique
+- Ambassadeur des Expo-sciences Hydro-Québec, Réseau Technoscience, depuis 2024
+
+## Me joindre
+
+Sherbrooke, QC · [LinkedIn](https://www.linkedin.com/in/ja3p/) · pelletierjasmin7@gmail.com
